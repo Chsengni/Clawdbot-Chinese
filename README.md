@@ -1,4 +1,4 @@
-## 替换汉化包
+## Clawdbot界面汉化 替换control-ui
 1.查看Clawdbot目录路径
 C:\Users\用户主目录\.clawdbot\gateway.cmd
 打开这个文件
